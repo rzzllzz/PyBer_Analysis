@@ -10,11 +10,15 @@ The purpose of the new analysis is to summarize and understand the demand for ri
 
 ![Fig1](https://user-images.githubusercontent.com/101225282/177678558-a886b0ed-cc84-40ac-ab75-5f19f8065816.png)
 
+The above bubble chart displays the relationship between the different types of cities being analyzed: Urban, suburban, and rural. The x-axis measures the total number of rides per city and the y-axis measures the average price for fare in each city type. The circle size indicates driver count per city type.
+
 ### Ride Count
 
 ![Fig2](https://user-images.githubusercontent.com/101225282/177678588-06d5f5c0-e956-4de1-8c80-4b378dd620b0.png)
 
 ![Fig6](https://user-images.githubusercontent.com/101225282/177678629-1c61458d-d4e8-4386-b3f9-87caa00125cb.png)
+
+
 
 ### Driver Count
 
@@ -30,4 +34,4 @@ The purpose of the new analysis is to summarize and understand the demand for ri
 
 ## Summary:
 
-Using the above analysis of the data for this ride-sharing service, the company can set measures in place to reward the frequent usage of PyBer in Urban areas as well as incentivizing its use in Rural areas. Possible incentives for rural users might be a rewards system where the consumer accumulates points over time. This can apply to drivers as well, implementing a ranking system based on reviews given by riders. 
+Using the above analysis of the data for this ride-sharing service, the company can set measures in place to reward the frequent usage of PyBer in Urban areas as well as incentivizing its use in Rural areas. Possible incentives for rural users might be a rewards system where the consumer accumulates points over time. This can apply to drivers as well, implementing a ranking system based on reviews given by riders. While the demand indeed influences fare prices, incentivizing users by giving them rewards for using the service can increase ride-sharing usage. 
