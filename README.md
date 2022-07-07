@@ -14,23 +14,23 @@ The above bubble chart displays the relationship between the different types of 
 
 ### Ride Count
 
-![Fig2](https://user-images.githubusercontent.com/101225282/177678588-06d5f5c0-e956-4de1-8c80-4b378dd620b0.png)
-
 ![Fig6](https://user-images.githubusercontent.com/101225282/177678629-1c61458d-d4e8-4386-b3f9-87caa00125cb.png)
 
-
+The above pie chart displays the percentage of total rides by city type. Urban cities have the highest percentage of total rides with 68.4% of total ride-shares happening in the urban cities. Suburban cities follow with 26.3% and rural cities take the smallest percentage with 5.3% of total rides. 
 
 ### Driver Count
 
-![Fig4](https://user-images.githubusercontent.com/101225282/177678671-cda1c2e6-5d19-4799-8882-18f6e5eee31b.png)
-
 ![Fig7](https://user-images.githubusercontent.com/101225282/177678677-c46f45b3-03ef-4170-a4f6-138b99719a9b.png)
+
+The above pie chart displays the percentage of total drivers by city type. Similarly to the chart displaying the percentage of total rides, urban cities take the lead with 80.9% of total drivers. This means that 16.5% of the total count of drivers drive in suburban cities and thus are responsible for 26.3% of the total count of rides. The same goes for rural drivers, 2.6% of the total amount of drivers drive in rural cities and thus are responsible for 5.3% of total rides. 
 
 ### Fare Count
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/101225282/177678706-db16d87c-3f24-47da-afeb-9af7c84f388b.png)
 
 ![Fig5](https://user-images.githubusercontent.com/101225282/177678721-36b3c558-2ae8-4de0-9641-2461f1261a37.png)
+
+The above multiple-line chart shows the total fare by city type with the x-axis measuring the total weekly fares across the months of January to April of 2019. The y-axis measures the price of fares in $USD. 
 
 ## Summary:
 
