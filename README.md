@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-The purpose of the new analysis is to summarize and understand the demand for ride-sharing in each city type and how ride-sharing usage affects the price of fares.  
+The purpose of the new analysis is to summarize and understand the demand for ride-sharing in urban, suburban, and rural cities, as well as how ride-sharing usage affects the price of fares. 
 
 ## Results:
 
